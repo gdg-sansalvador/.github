@@ -19,7 +19,7 @@ Fomentar el aprendizaje, la colaboración y la innovación en el ecosistema tecn
 ---
 
 ## 🎟️ Próximos Eventos  
-Consulta nuestros eventos en [GDG Page](https://gdg.community.dev/gdg-san-salvador/) y únete a nuestras sesiones en vivo.  
+Consulta nuestros eventos en nuestro [Sitio Web](https://gdg.community.dev/gdg-san-salvador/) y únete a nuestras sesiones en vivo.  
 
 📢 **¿Te gustaría dar una charla o proponer un tema?**  
 ¡Siempre buscamos speakers y colaboradores! Contáctanos en nuestras redes.  
@@ -28,7 +28,7 @@ Consulta nuestros eventos en [GDG Page](https://gdg.community.dev/gdg-san-salvad
 
 ## 📌 Únete a la Comunidad  
 Sigue nuestras redes sociales y participa en nuestros eventos:  
-🌐 [GDG Page](https://gdg.community.dev/gdg-san-salvador/)
+🔗 [Sitio Web](https://gdg.community.dev/gdg-san-salvador/)  
 🔗 [LinkedIn](https://www.linkedin.com/company/gdg-sansalvador/about/)  
 📸 [Instagram](https://www.instagram.com/gdg.sansalvador/?hl=es)  
 
