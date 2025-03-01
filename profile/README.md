@@ -33,7 +33,7 @@ Sigue nuestras redes sociales y participa en nuestros eventos:
 📸 [Instagram](https://www.instagram.com/gdg.sansalvador/?hl=es)  
 
 💬 **¿Dudas o sugerencias?** ¡Escríbenos! Estamos aquí para construir una comunidad fuerte y activa.  
-
+Correo: sansalvadorgdg@gmail.com
 ---
 
 ## 🚀 ¡Aprendamos, Crezcamos y Construyamos Juntos!  
